@@ -5,7 +5,7 @@ This repository hosts the official legal documentation for the **Operio Pro** mo
 ## 📄 Available Documents
 
 * **Privacy Policy:** [View Privacy Policy](https://operiostudio.github.io/Legal/)
-* **Terms & Conditions:** *[Link will go here once you create terms.html]*
+* **Terms & Conditions:** [View Terms & Conditions](https://operiostudio.github.io/Legal/terms.html)
 
 ## 🛠 Support & Contact
 
