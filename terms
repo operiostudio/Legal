@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms & Conditions - Operio Pro</title>
+    <style>
+        body { font-family: -apple-system, system-ui, sans-serif; line-height: 1.6; color: #333; max-width: 850px; margin: 0 auto; padding: 40px 20px; background: #f4f7f6; }
+        .container { background: white; padding: 50px; border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.08); }
+        h1 { color: #1a1a1a; border-bottom: 2px solid #e67e22; padding-bottom: 15px; font-size: 2.2em; }
+        h2 { margin-top: 35px; color: #2c3e50; font-size: 1.5em; border-left: 4px solid #e67e22; padding-left: 15px; }
+        p, li { color: #4a4a4a; font-size: 1.05em; }
+        ul { padding-left: 20px; }
+        li { margin-bottom: 10px; }
+        a { color: #e67e22; text-decoration: none; font-weight: 500; }
+        a:hover { text-decoration: underline; }
+        hr { border: 0; border-top: 1px solid #eee; margin: 40px 0; }
+        .footer { font-size: 0.9em; color: #888; text-align: center; margin-top: 50px; }
+        @media (prefers-color-scheme: dark) {
+            body { background: #0f172a; color: #e2e8f0; }
+            .container { background: #1e293b; box-shadow: 0 10px 40px rgba(0,0,0,0.4); }
+            h1, h2 { color: #f8fafc; }
+            p, li { color: #94a3b8; }
+            hr { border-top-color: #334155; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Terms & Conditions</h1>
+        <p>These terms and conditions apply to the <strong>Operio Pro</strong> app (hereby referred to as "Application") for mobile devices created by <strong>Operio Studio</strong> (hereby referred to as "Service Provider") as a Freemium service.</p>
+        <p>Upon downloading or utilizing the Application, you automatically agree to the following terms. Please read them thoroughly before using the Application.</p>
+
+        <h2>Intellectual Property</h2>
+        <p>Unauthorized copying, modification of the Application, or any part of the Application, or our trademarks is strictly prohibited. You are not permitted to attempt to extract the source code, translate the Application, or create derivative versions. All trademarks, copyrights, and intellectual property rights remain the property of the Service Provider.</p>
+
+        <h2>Service Modifications & Charges</h2>
+        <p>The Service Provider reserves the right to modify the Application or charge for its services at any time. Any charges for the Application or its services will be clearly communicated to you.</p>
+
+        <h2>Security & Device Integrity</h2>
+        <p>The Application processes personal data provided by you to deliver the Service. It is your responsibility to maintain the security of your device. We strongly advise against <strong>jailbreaking or rooting</strong> your phone, as it can expose your device to malware, compromise security features, and cause the Application to malfunction.</p>
+
+        <h2>Third-Party Terms</h2>
+        <p>The Application utilizes third-party services that have their own Terms and Conditions:</p>
+        <ul>
+            <li><a href="https://policies.google.com/terms" target="_blank">Google Play Services</a></li>
+            <li><a href="https://www.google.com/analytics/terms/" target="_blank">Google Analytics for Firebase</a></li>
+            <li><a href="https://firebase.google.com/terms/crashlytics" target="_blank">Firebase Crashlytics</a></li>
+            <li><a href="https://www.revenuecat.com/terms" target="_blank">RevenueCat</a></li>
+        </ul>
+
+        <h2>Connectivity & Responsibility</h2>
+        <p>Some functions require an active internet connection. The Service Provider is not responsible if the Application does not function at full capacity due to lack of Wi-Fi or mobile data exhaustion. You accept responsibility for any data charges incurred, including roaming fees.</p>
+        <p>Similarly, it is your responsibility to ensure your device remains charged. If you are unable to access the Service because your device ran out of battery, the Service Provider cannot be held responsible.</p>
+
+        <h2>Limitation of Liability</h2>
+        <p>While we strive to ensure the Application is updated and accurate, we rely on third parties for information. The Service Provider accepts no liability for any loss, direct or indirect, resulting from your reliance on the functionality of the Application.</p>
+
+        <h2>Termination & Updates</h2>
+        <p>The Service Provider may update or cease providing the Application at any time without notice. Upon termination, all rights and licenses granted to you will end, and you must cease using the Application.</p>
+
+        <h2>Changes to These Terms</h2>
+        <p>These Terms and Conditions may be updated periodically. We will notify you of any changes by posting the new Terms on this page. These terms are effective as of <strong>2026-01-06</strong>.</p>
+
+        <h2>Contact Us</h2>
+        <p>If you have any questions or suggestions, please contact the Service Provider at <a href="mailto:operiostudio@gmail.com">operiostudio@gmail.com</a>.</p>
+
+        <hr>
+        <div class="footer">
+            &copy; 2026 Operio Studio. All rights reserved.
+        </div>
+    </div>
+</body>
+</html>
